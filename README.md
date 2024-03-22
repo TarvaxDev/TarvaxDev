@@ -7,3 +7,8 @@ Working with these languages
 
 
 ![TarvaxDev GitHub stats](https://github-readme-stats.vercel.app/api?username=TarvaxDev&show_icons=true&theme=radical)
+
+### Learn Today:
+
+-[Learning CPP](https://www.learncpp.com/)<br/>
+-[Community Development](https://discord.gg/ueFzcXPpnN)<br/>
